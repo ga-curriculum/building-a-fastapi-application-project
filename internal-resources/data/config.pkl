@@ -14,7 +14,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "Build a FastAPI Application Project "
   // This must match the repo name as it appears on GitHub exactly
-  name = "advanced-python-building-a-fastapi-application-project"
+  name = "building-a-fastapi-application-project"
   type = "Lesson"
 }
 

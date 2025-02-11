@@ -37,8 +37,8 @@ Estimated completion time is around **15 hours**.
 
 ### Course landing pages
 
-- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/advanced-python-building-a-fastapi-application-project/canvas-landing-pages/apd.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/advanced-python-building-a-fastapi-application-project/canvas-landing-pages/fallback.html)
+- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/building-a-fastapi-application-project/canvas-landing-pages/apd.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/building-a-fastapi-application-project/canvas-landing-pages/fallback.html)
 
 ### Resources
 
