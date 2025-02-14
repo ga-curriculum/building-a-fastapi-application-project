@@ -34,7 +34,7 @@ Follow the provided project outline and reference our in-class lesson materials 
 1. **Create a Python virtual environment and install dependencies:**
 
    ```bash
-   pip install fastapi uvicorn sqlalchemy psycopg2-binary pydantic passlib pyjwt
+   pip install fastapi uvicorn sqlalchemy psycopg2-binary pydantic passlib bcrypt pyjwt
    pip install pytest starlette httpx
    ```
 
